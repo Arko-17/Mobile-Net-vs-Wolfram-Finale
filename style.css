@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color: olive;
+}
+#images{
+    height:310;
+    width: 300;
+}
+#objects{
+    background-color: plum;
+}
